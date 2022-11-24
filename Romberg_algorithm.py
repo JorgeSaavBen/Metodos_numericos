@@ -2,6 +2,7 @@ import numpy as np
 
 print('Algoritmo de Romberg')
 
+#Intervalo de integración
 a = 1
 b = 10
 
